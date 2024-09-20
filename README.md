@@ -1,4 +1,4 @@
-# Redbrick | Leadpages - Screening practice
+# Redbrick | Leadpages
 
 ## Animal Data Processing and Transfer
 
